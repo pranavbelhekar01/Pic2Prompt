@@ -1,6 +1,8 @@
-# image-to-prompt
 
-# Project Title: Innovative Multi-Modal Image Generation and Captioning with Advanced Vision Models
+
+# Project Title: Innovative Multi-Modal Image Generation and Captioning with Advanced Vision Models 
+
+### Image-to-prompt
 
 ## Description:
 Welcome to this exceptional repository showcasing a remarkable solution for the Kaggle competition centered around Multi-Modal Image Generation and Captioning. We are proud to present an ingenious approach that blends advanced vision models, data curation strategies, and optimization techniques for efficient image generation. While the solution itself was crafted by another talented individual, we are thrilled to provide an overview of their exceptional work.
