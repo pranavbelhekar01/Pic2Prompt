@@ -4,6 +4,7 @@
 
 ### Image-to-prompt
 
+
 ## Description:
 Welcome to this exceptional repository showcasing a remarkable solution for the Kaggle competition centered around Multi-Modal Image Generation and Captioning. We are proud to present an ingenious approach that blends advanced vision models, data curation strategies, and optimization techniques for efficient image generation. While another talented individual crafted the solution, we are thrilled to provide an overview of their exceptional work.
 
